@@ -3,13 +3,12 @@
 My roommate recently received a Blendtec blender as a gift. The blender is advertised with many features, such as whipping ice cream, batter, and soup. Our bananas browned before we got to them and for this journal, I set out to make banana bread and put this blender to the test.
 
 
-![txt](
+![txt](https://github.com/willowbrockhoff/J02/blob/main/blender.jpeg)
 
 
 This Blendtec has six settings that are afforded by small pictures. They include a whisk, presumably for batters. A margarita glass is featured, likely for frozen drinks while a cup with a straw is illustrated for smoothies. An ice cream cone clearly displays the ice cream setting, followed by a carrot for juice. The final setting is a steaming bowl of soup. Above these, there are three more controls afforded with a plus sign, a minus sign, and a heartbeat sign.
 
-
-
+![txt](https://github.com/willowbrockhoff/J02/blob/main/IMG_0067.jpg)
 
 These controls are all easily learnable, meaning they are easy to interpret during first use. The graphics are simple outlines against a contrasting background making them easy to interpret. Going into this task, my mental model of how these controls worked was simple. When I pressed one of the settings, I expected them to start blending in whatever pace and direction was programmed for them. For the plug and minus control, I expected them to increase or decrease the pace at my command. Finally, for the heartbeat sign, I expected to be able to pulse the blender while it was at rest by holding it down and then releasing it. This mental model was based on my previous experience using different blenders and similar products
 
