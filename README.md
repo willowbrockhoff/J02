@@ -1,5 +1,5 @@
 # Batter Blender Functionality
-### Willow Brockhoff, March 7, 2023
+### Willow Brockhoff, May 11, 2023
 
 My roommate recently received a Blendtec blender as a gift. The blender is advertised with many features, such as whipping ice cream, batter, and soup. Our bananas browned before we got to them and for this journal, I set out to make banana bread and put this blender to the test.
 
